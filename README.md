@@ -27,6 +27,10 @@
 ## 快速开始
 
 ```bash
+# 安装全部创业技能
+npx skills add skills-repo/startup-founder -g -y
+
+# 或按需安装单个技能
 npx skills add skills-repo/startup-founder@idea-validator -g -y
 npx skills add skills-repo/startup-founder@mvp-builder -g -y
 npx skills add skills-repo/startup-founder@founder-sales -g -y
