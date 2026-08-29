@@ -44,3 +44,17 @@
 - **只讲功能**：投资人不买功能，买增长与护城河。
 - **忽视条款**：拿了高估值但苛刻条款，后续被动。
 - **数据注水**：traction 经不起尽调，信誉破产。
+
+## 6. 相关子技能与层次边界
+
+本 playbook 只给**融资时机判断与就绪门槛**（L2 方法论）；Deck 逐页怎么写、投资人怎么跟、条款怎么谈，交给下列子技能（L3 落地）：
+
+| 落地需求 | 调用子技能 |
+|----------|-----------|
+| Bootstrapping vs VC 决策、Deck 打磨、交割全流程 | `skills/fundraising-guide/SKILL.md` |
+| 用创始人身份换取早期成交，把 traction 做实 | `skills/founder-sales/SKILL.md` |
+| traction 不足时回到产品侧补最小可信增长 | `skills/mvp-builder/SKILL.md` |
+
+**层次边界**：本文回答「现在该不该融、够不够格融」；子技能回答「Deck 每页写什么、会议后怎么推进」。第 1 节就绪检查未过 → 不进 `skills/fundraising-guide/`，先回 `skills/founder-sales/` 或 `skills/mvp-builder/` 补 traction；第 4 节交割条款细节在 `skills/fundraising-guide/` 展开。
+
+**兄弟 playbook**：融资前若方向本身未被验证 → 回 `references/validation-methodology.md` 重走三问。

@@ -90,3 +90,8 @@ tags:
 - 高度监管行业（医疗、金融）可能需要先满足合规要求
 - 三段式不是线性的——你可能需要多次回到 Stage 1
 - 需要创始人愿意亲自做「低端」工作
+
+## 相关参考（Playbook）
+
+- 上游方法论：`../../references/validation-methodology.md` — 验证阶梯第 4 阶（真实 MVP）的进入条件在该 playbook 定义；**没有前序证据不要直接进本子技能的三段式**。
+- 融资侧衔接：traction 做实后读 `../../references/fundraising-readiness.md` 判断就绪度，再进 `../../skills/fundraising-guide/SKILL.md`。

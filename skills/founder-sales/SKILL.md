@@ -85,3 +85,8 @@ tags:
 - 如果创始人完全不愿意面对客户，这个技能帮助有限
 - 企业级销售（6 位数以上合同）需要额外的销售方法论
 - 不同文化背景下的销售风格差异大，需本地化调整
+
+## 相关参考（Playbook）
+
+- 验证侧：`../../references/validation-methodology.md` — 销售对话中拿到的「挺有意思但无行动」属该 playbook 第 3 节失败信号，先按信号复核方向再改话术。
+- 融资侧：`../../references/fundraising-readiness.md` — 早期成交是就绪检查里的 traction 来源；本子技能负责把成交做出来，就绪门槛由该 playbook 判定。

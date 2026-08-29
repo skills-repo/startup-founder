@@ -91,3 +91,8 @@ tags:
 - 不同地区和阶段的融资规范差异大
 - 不适用于非股权融资（债务融资、Grant 等）
 - 消费级和企业级 SaaS 的融资逻辑不同
+
+## 相关参考（Playbook）
+
+- 上游方法论：`../../references/fundraising-readiness.md` — 就绪检查、Deck 结构骨架与常见坑；**第 1 节五项未过不要进本子技能，先补 traction**。
+- traction 不足时：回 `../../skills/founder-sales/SKILL.md` 做早期成交，或 `../../skills/mvp-builder/SKILL.md` 补产品侧证据。
