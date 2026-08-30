@@ -37,6 +37,15 @@ npx skills add skills-repo/startup-founder@founder-sales -g -y
 npx skills add skills-repo/startup-founder@fundraising-guide -g -y
 ```
 
+## 深层 Playbook（整库安装才带）
+
+`references/` 里放的是子技能装不下的**判断层**内容——量化门槛、证据分级、止损判据：
+
+| Playbook | 解决什么 |
+|----------|---------|
+| `references/validation-methodology.md` | 三问前置、商业数学速算、证据强度 5 档与通过线、转向 vs 止损决策树 |
+| `references/fundraising-readiness.md` | 就绪五项、单位经济分档（LTV:CAC / 回收期 / 留存 / Burn Multiple）、Runway 决策线、轮次门槛 |
+
 ## 推荐工作流
 
 ```
