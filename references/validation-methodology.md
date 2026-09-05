@@ -115,9 +115,9 @@ print(f'付费客户={c:.0f}  MRR={mrr:,.0f}  ARR={mrr*12:,.0f}  CAC回收期={c
 
 | 落地需求 | 调用子技能 |
 |----------|-----------|
-| 逐项评估点子（市场时机 / 商业数学 / 需求框架） | `skills/idea-validator/SKILL.md` |
-| 验证通过后构建最小可交付单位（手动 → 流程化 → 产品化） | `skills/mvp-builder/SKILL.md` |
-| 用访谈与早期成交换取真实付费证据 | `skills/founder-sales/SKILL.md` |
+| 逐项评估点子（市场时机 / 商业数学 / 需求框架） | [`skills/idea-validator/SKILL.md`](../skills/idea-validator/SKILL.md) |
+| 验证通过后构建最小可交付单位（手动 → 流程化 → 产品化） | [`skills/mvp-builder/SKILL.md`](../skills/mvp-builder/SKILL.md) |
+| 用访谈与早期成交换取真实付费证据 | [`skills/founder-sales/SKILL.md`](../skills/founder-sales/SKILL.md) |
 
 **层次边界**：本文回答「该不该继续、什么时候停」；子技能回答「这一步具体怎么做、交付什么」。第 1.1/2.1/3.1 节的量化门槛、证据分级与转向-止损判据**只在本层**维护，子技能不复制这些数字，需要判档时回读本文。第 2 节验证阶梯的第 4 阶（真实 MVP）不在本文展开，直接进 `skills/mvp-builder/`；第 3 节失败信号若来自销售侧，配合 `skills/founder-sales/` 复盘话术而非直接砍方向。
 

@@ -114,9 +114,9 @@ print(f'Runway={cash/net_burn:.1f} 月  BurnMultiple={net_burn/d_arr:.1f}x')
 
 | 落地需求 | 调用子技能 |
 |----------|-----------|
-| Bootstrapping vs VC 决策、Deck 打磨、交割全流程 | `skills/fundraising-guide/SKILL.md` |
-| 用创始人身份换取早期成交，把 traction 做实 | `skills/founder-sales/SKILL.md` |
-| traction 不足时回到产品侧补最小可信增长 | `skills/mvp-builder/SKILL.md` |
+| Bootstrapping vs VC 决策、Deck 打磨、交割全流程 | [`skills/fundraising-guide/SKILL.md`](../skills/fundraising-guide/SKILL.md) |
+| 用创始人身份换取早期成交，把 traction 做实 | [`skills/founder-sales/SKILL.md`](../skills/founder-sales/SKILL.md) |
+| traction 不足时回到产品侧补最小可信增长 | [`skills/mvp-builder/SKILL.md`](../skills/mvp-builder/SKILL.md) |
 
 **层次边界**：本文回答「现在该不该融、够不够格融」；子技能回答「Deck 每页写什么、会议后怎么推进」。第 1 节就绪检查未过 → 不进 `skills/fundraising-guide/`，先回 `skills/founder-sales/` 或 `skills/mvp-builder/` 补 traction；第 4 节交割条款细节在 `skills/fundraising-guide/` 展开。第 1.1/1.2 节的量化门槛与速算**只在本层**维护——子技能不重复基准数字，需要判档时回读本文，避免两处基准漂移。
 
