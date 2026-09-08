@@ -6,10 +6,10 @@
 
 | 技能 | 文件 | 用途 |
 |------|------|------|
-| idea-validator | `skills/idea-validator/SKILL.md` | 创业点子验证：问题-方案匹配、市场时机、商业可行性 |
-| mvp-builder | `skills/mvp-builder/SKILL.md` | MVP 构建：从手动到流程化到产品化的三段式方法论 |
-| founder-sales | `skills/founder-sales/SKILL.md` | 创始人销售：利用创始人身份优势完成早期客户获取 |
-| fundraising-guide | `skills/fundraising-guide/SKILL.md` | 融资指南：从 Bootstrapping 到 VC、Pitch Deck 到交割 |
+| idea-validator | [skills/idea-validator/SKILL.md](skills/idea-validator/SKILL.md) | 创业点子验证：问题-方案匹配、市场时机、商业可行性 |
+| mvp-builder | [skills/mvp-builder/SKILL.md](skills/mvp-builder/SKILL.md) | MVP 构建：从手动到流程化到产品化的三段式方法论 |
+| founder-sales | [skills/founder-sales/SKILL.md](skills/founder-sales/SKILL.md) | 创始人销售：利用创始人身份优势完成早期客户获取 |
+| fundraising-guide | [skills/fundraising-guide/SKILL.md](skills/fundraising-guide/SKILL.md) | 融资指南：从 Bootstrapping 到 VC、Pitch Deck 到交割 |
 
 ## 适用场景
 

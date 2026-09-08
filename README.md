@@ -43,8 +43,8 @@ npx skills add skills-repo/startup-founder@fundraising-guide -g -y
 
 | Playbook | 解决什么 |
 |----------|---------|
-| `references/validation-methodology.md` | 三问前置、商业数学速算、证据强度 5 档与通过线、转向 vs 止损决策树 |
-| `references/fundraising-readiness.md` | 就绪五项、单位经济分档（LTV:CAC / 回收期 / 留存 / Burn Multiple）、Runway 决策线、轮次门槛 |
+| [references/validation-methodology.md](references/validation-methodology.md) | 三问前置、商业数学速算、证据强度 5 档与通过线、转向 vs 止损决策树 |
+| [references/fundraising-readiness.md](references/fundraising-readiness.md) | 就绪五项、单位经济分档（LTV:CAC / 回收期 / 留存 / Burn Multiple）、Runway 决策线、轮次门槛 |
 
 ## 推荐工作流
 
